@@ -5,14 +5,12 @@ function App() {
     <>
       <div className="love-img">
             <h1 className="love-text">para la chica mas hermosa</h1>
-            <p className="php">🍀💝💝🍀💝💝🍀</p>
-            <p className="php">💝💝💝💝💝💝💝</p>
-            <p className="php">🍀💝💝💝💝💝🍀</p>
-            <p className="php">🍀🍀💝💝💝🍀🍀</p>
-            <p className="php">🍀🍀🍀💝🍀🍀🍀</p>
-            <a href="src\Card\loveCard.html">
-                <button class="next">▶️</button>
-            </a>
+            <p className="php1">🍀💝💝🍀💝💝🍀</p>
+            <p className="php1">💝💝💝💝💝💝💝</p>
+            <p className="php1">🍀💝💝💝💝💝🍀</p>
+            <p className="php1">🍀🍀💝💝💝🍀🍀</p>
+            <p className="php1">🍀🍀🍀💝🍀🍀🍀</p>
+            
         </div>
         <hr />
         <div class="totallove">

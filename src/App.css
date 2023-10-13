@@ -20,11 +20,11 @@ body{
 .php{
   margin: 23px;
 }
-.php:nth-child(odd){
+.php1:nth-child(odd){
   font-size: 25px;
   animation: rot1 3s ease-in-out infinite;
 }
-.php:nth-child(even){
+.php1:nth-child(even){
   font-size: 25px;
   animation: rot2 3s ease-in-out infinite;
 }
