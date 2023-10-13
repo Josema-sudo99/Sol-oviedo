@@ -14,6 +14,31 @@ function App() {
                 <button class="next">▶️</button>
             </a>
         </div>
+        <hr />
+        <div class="totallove">
+  <div className="love1">
+    <span className="php">g</span>
+    <span className="php">r</span>
+    <span className="php">a</span>
+    <span className="php">c</span>
+    <span className="php">i</span>
+    <span className="php">a</span>
+    <span className="php">s</span>
+  </div>
+  <div className="love2">
+    <span className="php">p</span>
+    <span className="php">o</span>
+    <span className="php">r</span>
+    <span className="php">💝</span>
+    <span className="php">t</span>
+    <span className="php">o</span>
+    <span className="php">d</span>
+    <span className="php">o</span>
+  </div>
+  <div className="love3 ">
+    <span className="php">💝💝💝</span>
+  </div>
+  </div>
     </>
   )
 }
